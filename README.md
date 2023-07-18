@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-ESte es un repositorio de prueba PrepH
+#Este repositorio es una prueba de como crear un repositorio y clonsrlo desde github a mi PC
